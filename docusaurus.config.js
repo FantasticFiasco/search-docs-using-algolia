@@ -16,12 +16,12 @@ const config = {
   url: 'https://fantasticfiasco.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/search-docs-using-typesense/',
+  baseUrl: '/search-docs-using-algolia/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'FantasticFiasco', // Usually your GitHub org/user name.
-  projectName: 'search-docs-using-typesense', // Usually your repo name.
+  projectName: 'search-docs-using-algolia', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
